@@ -67,4 +67,24 @@
 <br>
 <div width="100%" align="center">
  
-  
+  <p align="center">
+  Front-End Dev 💻 | Health IT Student 🩺
+  <br>
+  Future Health Tech Specialist ✨
+  <br>
+  Coding & Healthcare 🤍
+  <br>
+  Front-End Developer 🚀
+  <br>
+  Web Dev | Health Informatics
+  <br>
+  Building clean websites ✨
+  <br>
+  Tech & Healthcare Enthusiast
+  <br>
+  React Learner ⚡
+  <br>
+  UI/UX Lover 🎨
+  <br>
+  Code. Learn. Grow. 🚀
+</p>
